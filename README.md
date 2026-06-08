@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a **Doctoral Researcher** at the [6G Flagship](https://www.oulu.fi/en/research-groups/6g-flagship), University of Oulu, Finland. My research is on waveform design and optimization for 6G wireless systems. However, as I have been working for the several EU/national/international projects, spent most of my time on  design and development of 5G/O-RAN end-to-end testbed for several use cases. Now-a-days testing/veryfying **5G/O-RAN/6G/NTN** features using open-source tools and techniques is my strong passion. Previously at the **5G Test Network (5GTN) Oulu**, where I led Horizon Europe 6G-XR deliverable D1.1, 5G!drones' D3.3, Task T2.3 (AI-based slicing models) etc., and worked on 5G/B5G testbed deployment with open-source and commercial RAN.
+I'm a **Doctoral Researcher** at the [6G Flagship](https://www.6gflagship.com/), University of Oulu, Finland. My research is on waveform design and optimization for 6G wireless systems. However, as I have been working for the several EU/national/international projects, spent most of my time on  design and development of 5G/O-RAN end-to-end testbed for several use cases. Now-a-days testing/veryfying **5G/O-RAN/6G/NTN** features using open-source tools and techniques is my strong passion. Previously at the **5G Test Network (5GTN) Oulu**, where I led Horizon Europe 6G-XR deliverable D1.1, 5G!drones' D3.3, Task T2.3 (AI-based slicing models) etc., and worked on 5G/B5G testbed deployment with open-source and commercial RAN.
 
 I build reproducible, end-to-end mobile network testbeds and care about doing the hard, honest engineering, down to the timing of a single random-access preamble.
 
