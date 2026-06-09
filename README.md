@@ -10,7 +10,7 @@ I build reproducible, end-to-end mobile network testbeds and care about doing th
 
 ### 🔬 Focus Areas
 
-- 📡 **Open RAN & Core** — OpenAirInterface, srsRAN (O-CU/O-DU), Open5GS, free5GC, UERANSIM
+- 📡 **Open RAN & Core** — OpenAirInterface (OAI), srsRAN (O-CU/O-DU), Open5GS, free5GC, Magma Core, UERANSIM
 - 🎛️ **O-RAN** — O-RAN SC, FlexRIC, near-RT/non-RT RIC, xApps/rApps
 - 🛰️ **Non-Terrestrial Networks** — 5G NR NTN, GEO/LEO, direct-to-device (D2D), 3GPP Release 17/18/19
 - 🤖 **AI/ML for Networks** — AI-enabled waveform design, network slicing models, RAN optimisation
